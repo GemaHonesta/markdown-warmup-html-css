@@ -1,0 +1,34 @@
+h1 {
+    color:#891F67;
+    text-align: center;
+    font-family: cursive;
+    }
+
+h2 {
+    color:#891F67;
+    text-align: center;
+    font-family: cursive;
+}
+
+h3 {
+    color:#891F67;
+    text-align: center;
+    font-family: cursive;
+}
+
+p {
+    text-align: center;
+    font-family: "Lucida Bright", Georgia, serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px;
+}
+ul li {
+    text-align: center;
+    font-family: "Lucida Bright", Georgia, serif;
+}
