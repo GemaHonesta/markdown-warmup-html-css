@@ -15,4 +15,6 @@ into *HTML* inside a file called _index.html_. All your work must be in a public
 repository named _markdown-warmup-html_.
 
 #### Here is my work:
-  https://gemahonesta.github.io/markdown-warmup-html-css/
+
+ [My work](https://gemahonesta.github.io/markdown-warmup-html-css/)
+  
