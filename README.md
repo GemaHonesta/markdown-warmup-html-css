@@ -1,11 +1,11 @@
-= Markdown to HTML
+# Markdown to HTML
 
 Type of challenge: *learning* +
 Duration: *60 min* +
 Team challenge: *solo*
 
 
-== Learning objectives
+## Learning objectives
 
 At the end of this challenge you should be able to:
 
@@ -13,11 +13,11 @@ At the end of this challenge you should be able to:
 * convert MarkDown to *HTML*
 
 
-== The mission
+### The mission
 
 You have to convert the *MarkDown* from this link:../../02-Markdown/[exercise]
 into *HTML* inside a file called _index.html_. All your work must be in a public
 repository named _markdown-warmup-html_.
 
-== Here is my work:
+#### Here is my work:
   https://gemahonesta.github.io/markdown-warmup-html-css/
